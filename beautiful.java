@@ -1,4 +1,4 @@
-class beautiful {
+class beautiful {  //A program to make the thumbnail in my website. A little extra I know, but it looks cool.
 	public static void main(String[] args) {
 		print("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||");
 		print("|||||||||||||||||PPPPP|||RRRRR||||OOOO|||||||JJ||EEEEEE|||CCCC|||TTTTTT|||||||||||||||||");
